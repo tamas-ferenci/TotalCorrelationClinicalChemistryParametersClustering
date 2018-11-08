@@ -1,0 +1,2 @@
+# TotalCorrelationClinicalChemistryParametersClustering
+Using total correlation to discover related clusters of clinical chemistry parameters
